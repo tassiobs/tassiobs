@@ -6,7 +6,7 @@ A curious Product Manager exploring AI, product development, and side projects.
 
 ## 🚀 What I'm working on
 
-• **VocaTree** — an AI-powered English vocabulary learning app  
+• **VocabBranch** — an AI-powered English vocabulary learning app - http://vocabranch.com/ 
 • Exploring AI tools and product experiments
 
 ---
