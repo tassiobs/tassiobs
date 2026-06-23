@@ -10,6 +10,8 @@ A curious Product Manager exploring AI, product development, and side projects.
 
 • Exploring AI tools and product experiments
 
+• Exploring integrations, automation, and AI through real-world side projects
+
 ---
 
 ## 🧠 Interests
