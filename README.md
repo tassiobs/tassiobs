@@ -1,26 +1,26 @@
 # Hi, I'm Tassio 👋
 
-A curious Product Manager exploring AI, product development, and side projects.
+Technical Product Manager focused on **APIs, integrations & developer experience**.
+I turn complex technical systems into products developers can actually use —
+working closely with engineering on API design, platform integrations, and identity & access.
 
----
+📍 Brazil · working remotely with international teams
 
-## 🚀 What I'm working on
+## What I'm exploring
+How AI coding agents are changing the way developers discover, understand, and integrate
+with APIs — and what "agent-friendly" API design and documentation should look like.
 
-• **VocaBranch** — an AI-powered English vocabulary learning app - http://vocabranch.com/ 
+## Experience highlights
+- 🔌 Platform integrations & API products
+- 🔐 Identity & access management (IAM)
+- 📚 OpenAPI, API documentation & developer tooling
+- ⚖️ Legal background — data privacy, compliance, and partner constraints
 
-• Exploring integrations, automation, and AI through real-world side projects
+## Featured projects
+**[Portalix](https://github.com/tassiobs/portalix)** — [one concrete sentence: what it does, for whom].
+Designed spec-first with OpenAPI, with LLM-friendly docs (llms.txt) for agent-assisted integration.
 
----
+**[VocaBranch](https://vocabranch.com)** — AI-powered vocabulary learning app I built end to end,
+from product concept to shipped application.
 
-## 🧠 Interests
-
-• AI to enhance customer experience  
-• Technical product management  
-• APIs, Integrations & Automation
-
----
-
-## Connect with me
-
-[LinkedIn](https://linkedin.com/in/tassio-batista)  
-Website: https://handsonproduct.substack.com/
+[LinkedIn](https://linkedin.com/in/tassio-batista) · [Hands-on Product (Substack)](https://handsonproduct.substack.com/)
