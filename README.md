@@ -17,7 +17,7 @@ with APIs — and what "agent-friendly" API design and documentation should look
 - ⚖️ Legal background — data privacy, compliance, and partner constraints
 
 ## Featured projects
-**[Portalix](https://github.com/tassiobs/portalix)** — [one concrete sentence: what it does, for whom].
+**[Portalix](https://github.com/tassiobs/portalix)** — Portalix: A platform for building client portals.
 Designed spec-first with OpenAPI, with LLM-friendly docs (llms.txt) for agent-assisted integration.
 
 **[VocaBranch](https://vocabranch.com)** — AI-powered vocabulary learning app I built end to end,
