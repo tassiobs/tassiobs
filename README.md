@@ -6,15 +6,12 @@ working closely with engineering on API design, platform integrations, and ident
 
 📍 Brazil · working remotely with international teams
 
-## What I'm exploring
-How AI coding agents are changing the way developers discover, understand, and integrate
-with APIs — and what "agent-friendly" API design and documentation should look like.
-
 ## Experience highlights
-- 🔌 Platform integrations & API products
-- 🔐 Identity & access management (IAM)
-- 📚 OpenAPI, API documentation & developer tooling
-- ⚖️ Legal background — data privacy, compliance, and partner constraints
+- 🔌 Platform integrations, APIs & developer portals
+- 🔐 Identity & access management (IAM) and KYC
+- 🏦 Banking & financial services
+- ⚙️ Process automation, workflows & document management
+- ⚖️ Legal tech: software operations for law firms
 
 ## Featured projects
 **[Portalix](https://github.com/tassiobs/portalix)** — Portalix: A platform for building client portals.
