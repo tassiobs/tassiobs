@@ -14,10 +14,9 @@ working closely with engineering on API design, platform integrations, and ident
 - ⚖️ Legal tech: software operations for law firms
 
 ## Featured projects
-**[Portalix](https://github.com/tassiobs/portalix)** — Portalix: A platform for building client portals.
-Designed spec-first with OpenAPI, with LLM-friendly docs (llms.txt) for agent-assisted integration.
-
 **[VocaBranch](https://vocabranch.com)** — AI-powered vocabulary learning app I built end to end,
 from product concept to shipped application.
+
+**[SpokenRight](https://spokenright.com)** — App for language learners to practice their pronunciation.  
 
 [LinkedIn](https://linkedin.com/in/tassio-batista) · [Hands-on Product (Substack)](https://handsonproduct.substack.com/)
